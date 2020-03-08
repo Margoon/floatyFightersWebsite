@@ -4,7 +4,7 @@ html {
     background-color: #28ccdf;
 }
 
-logo {
+header {
     position: relative;
     overflow: auto;
     margin: auto;
@@ -107,7 +107,7 @@ footer {
         font-size: 4vw;
     }
 
-    logo {
+    header {
         max-width: 70vw;
     }
 
