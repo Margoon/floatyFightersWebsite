@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Asap|Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oxanium|Roboto&display=swap');
 
 body {
     background-color: #472D3C;
     background: url("/assets/resources/background.png");
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.5vw;
     color: #472D3C;
     line-height: 1.5;
@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Asap', sans-serif;
+    font-family: 'Oxanium', cursive;
     margin: 1em;
 }
 
