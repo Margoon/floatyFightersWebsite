@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Asap|Lato&display=swap');
+
+body {
+    background-color: #472D3C;
+    background: url("/assets/resources/background.png");
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5vw;
+    color: #472D3C;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Asap', sans-serif;
+    margin: 1em;
+}
+
+a, a:visited, a:focus, a:hover {
+    color: #397b44;
+    fill: #397b44;
+    text-decoration: none;
+    transition: .15s;
+}
+
+    a img {
+        border: 0;
+    }
+
+nav {
+    display: flex;
+    font-size: 1.25vw;
+}
+
+    nav a, nav a:visited, nav a:focus {
+        flex-grow: 1;
+        text-decoration: none;
+        transition: .15s;
+    }
+
+        nav a:hover {
+            background-color: #397b44;
+            color: #f4cca1;
+            fill: #f4cca1;
+        }
+
+footer {
+    font-size: 1vw;
+}
+
+.container {
+    background-color: #f4cca1;
+    position: relative;
+    overflow: auto;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 50vw;
+}
+
+.content {
+    position: relative;
+    overflow: auto;
+    padding: 5vw;
+    padding-top: 2.5vw;
+    padding-bottom: 2.5vw;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.twocol
+{
+	width: 50%;
+	overflow: auto;
+	float: left;
+    padding: 0;
+}
+
+.screenshots
+{
+	overflow: auto;
+}
+
+@media (max-width: 800px)
+{
+    body
+    {
+        font-size: 4vw;
+    }
+
+    nav {
+        display: flex;
+        font-family: 'Asap', sans-serif;
+        font-size: 2.5vw;
+    }
+
+    .container
+    {
+        max-width: 80vw;
+    }
+
+    .screenshots li {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    footer {
+        font-size: 2.5vw;
+    }
+}
