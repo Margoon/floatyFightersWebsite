@@ -44,13 +44,12 @@ nav {
     nav a, nav a:visited, nav a:focus {
         flex-grow: 1;
         text-decoration: none;
-        transition: .15s;
     }
 
         nav a:hover {
-            background-color: #39314B;
-            color: #302C2E;
-            fill: #302C2E;
+            background-color: #E6482E;
+            color: #39314B;
+            fill: #39314B;
         }
 
 footer {
