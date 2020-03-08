@@ -11,7 +11,7 @@ body {
     background-size: contain;
     font-family: 'Roboto', sans-serif;
     font-size: 1.5vw;
-    color: #472D3C;
+    color: #302C2E;
     line-height: 1.5;
     text-align: center;
     margin: 0;
@@ -24,8 +24,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a, a:visited, a:focus, a:hover {
-    color: #397b44;
-    fill: #397b44;
+    color: #E6482E;
+    fill: #E6482E;
     text-decoration: none;
     transition: .15s;
 }
@@ -47,9 +47,7 @@ nav {
     }
 
         nav a:hover {
-            background-color: #397b44;
-            color: #f4cca1;
-            fill: #f4cca1;
+            background-color: #E6482E;
         }
 
 footer {
