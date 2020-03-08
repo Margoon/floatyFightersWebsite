@@ -4,6 +4,11 @@ html {
     background-color: #28ccdf;
 }
 
+logo {
+    max-width: 35vw;
+    padding: 2.5vw;
+}
+
 body {
     background-color: #28ccdf;
     background: url("/assets/resources/background.png");
@@ -95,6 +100,10 @@ footer {
     body
     {
         font-size: 4vw;
+    }
+
+    logo {
+        max-width: 70vw;
     }
 
     nav {
