@@ -3,12 +3,15 @@ layout: meta
 ---
 
 <body>
+    {% include core/header.html %}
+
     <div class="container">
-        {% include core/header.html %}
+        {% include core/nav.html %}
 
         <div class="content">
             {{ content }}
         </div>
+
         <div class="content" style="padding-top: 0;">
             {% include core/footer.html %}
         </div>
