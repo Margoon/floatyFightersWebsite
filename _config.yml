@@ -1,12 +1,12 @@
 name: Floaty Fighters
 
-description: "Pay back your insurmountable debt to Mayor Onion, and tear down the corrupt vegetable government!"
+description: "It's fight or flight! Battle it out in the sky as four unique combatants in this free movement fighting game!"
 
 markdown: kramdown
 
 permalink: /blog/:title
 
-trailer: "vLsoncRgaTs"
+trailer: "0TLu3IUKE1w"
 
 screenshots:
  - "/assets/screenshots/00.png"
@@ -25,6 +25,10 @@ screenshots:
  - "/assets/screenshots/13.png"
  - "/assets/screenshots/14.png"
  - "/assets/screenshots/15.png"
+ - "/assets/screenshots/16.png"
+ - "/assets/screenshots/17.png"
+ - "/assets/screenshots/18.png"
+ - "/assets/screenshots/19.png"
 
 gems:
  - jekyll-sitemap
