@@ -48,6 +48,8 @@ nav {
 
         nav a:hover {
             background-color: #E6482E;
+            color: #302C2E;
+            fill: #302C2E;
         }
 
 footer {
@@ -55,7 +57,7 @@ footer {
 }
 
 .container {
-    background-color: #f4cca1;
+    background-color: #8aebf1;
     position: relative;
     overflow: auto;
     margin: auto;
