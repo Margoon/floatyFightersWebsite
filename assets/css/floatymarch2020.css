@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oxanium|Roboto&display=swap');
 
 html {
-    background-color: #28ccdf;
+    background-color: #a93b3b;
 }
 
 header {
@@ -15,7 +15,7 @@ header {
 }
 
 body {
-    background-color: #28ccdf;
+    background-color: #a93b3b;
     background: url("/assets/resources/background.png");
     background-repeat: no-repeat;
     background-size: contain;
