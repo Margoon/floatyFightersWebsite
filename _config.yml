@@ -23,12 +23,6 @@ screenshots:
  - "/assets/screenshots/11.png"
  - "/assets/screenshots/12.png"
  - "/assets/screenshots/13.png"
- - "/assets/screenshots/14.png"
- - "/assets/screenshots/15.png"
- - "/assets/screenshots/16.png"
- - "/assets/screenshots/17.png"
- - "/assets/screenshots/18.png"
- - "/assets/screenshots/19.png"
 
 gems:
  - jekyll-sitemap
